@@ -44,20 +44,20 @@ class cellSys{
 			'Cancer!'
 		];
 		this.sliceimgs = [
-			'/g1.png',
-			'/g1chk.png',
-			'/s.png',
-			'/g2.png',
-			'/g2chk.png',
-			'/prophase.png',
-			'/prometaphase.png',
-			'/meta.png',
-			'/mchk.png',
-			'/ana.png',
-			'/telo.png',
-			'/cyto.png',
-			'/g0.png',
-			'/cancer.png',
+			'g1.png',
+			'g1chk.png',
+			's.png',
+			'g2.png',
+			'g2chk.png',
+			'prophase.png',
+			'prometaphase.png',
+			'meta.png',
+			'mchk.png',
+			'ana.png',
+			'telo.png',
+			'cyto.png',
+			'g0.png',
+			'cancer.png',
 		];
 		this.updDim = this.updDim.bind(this);
 		this.step = this.step.bind(this);
