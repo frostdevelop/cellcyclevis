@@ -140,6 +140,7 @@ class cellSys{
 				break;
 			case 13:
 				this.currSlice = 0;
+				this.cancer = false;
 				await this.moveIn();
 				break;
 			default:
