@@ -45,19 +45,19 @@ class cellSys{
 		];
 		this.sliceimgs = [
 			'g1.png',
-			'g1chk.png',
-			's.png',
-			'g2.png',
-			'g2chk.png',
-			'prophase.png',
-			'prometaphase.png',
+			'https://cdn.kastatic.org/ka-perseus-images/9c6a08e9311df5529c5899ec3639a29048509e44.png',
+			'https://upload.wikimedia.org/wikipedia/commons/7/70/DNA_replication_split.svg',
+			'https://cdn.kastatic.org/ka-perseus-images/41ec3c3648ff73578d8f2c7f34b26f41e9f8ce94.png',
+			'https://cdn.kastatic.org/ka-perseus-images/3af02c1c6486f416ccaa4c328232fab788639a2c.png',
+			'https://cdn.kastatic.org/ka-perseus-images/f32963379290b822763614b2edd19ba14b9c929a.png',
+			'https://upload.wikimedia.org/wikipedia/commons/a/a8/Prometaphase.svg',
 			'meta.png',
-			'mchk.png',
-			'ana.png',
+			'https://cdn.kastatic.org/ka-perseus-images/df15c063ad46ea546a83d2a3a6117349d144d135.png',
+			'https://upload.wikimedia.org/wikipedia/commons/d/d6/Mitotic_Anaphase.svg',
 			'telo.png',
-			'cyto.png',
+			'https://upload.wikimedia.org/wikipedia/commons/6/69/Cytokinesis_illustration.svg',
 			'g0.png',
-			'cancer.png',
+			'https://cdn.kastatic.org/ka-perseus-images/3ce36e4344afc09823195b45d8ca765191f2e0d0.png',
 		];
 		this.updDim = this.updDim.bind(this);
 		this.step = this.step.bind(this);
